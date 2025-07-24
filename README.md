@@ -24,4 +24,4 @@ Follow these steps to get the project running on your local machine.
 First, clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/shreedharshukla/AI-Youtube-Summarizer/
+git clone <https://github.com/shreedharshukla/AI-Youtube-Summarizer/>
