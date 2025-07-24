@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Temporary audio file
+temp_audio.mp3

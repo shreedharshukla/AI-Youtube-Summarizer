@@ -1,0 +1,9 @@
+openai-whisper
+transformers
+torch
+moviepy
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+yt-dlp
+google-generativeai
